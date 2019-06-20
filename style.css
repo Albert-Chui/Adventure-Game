@@ -14,9 +14,20 @@
     margin-left: auto;
     margin-right: auto;
   }
+<<<<<<< HEAD
   .youwin {
    display: center;
   }
   .youwin {
       background-image: url(https://img.freepik.com/free-vector/congratulations-with-confetti_51486-281.jpg?size=626&ext=jpg)
 }
+=======
+  .row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+>>>>>>> 80265a8fc0725abb73b70495356df3052dd9f310
