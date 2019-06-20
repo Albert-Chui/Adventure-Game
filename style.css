@@ -33,4 +33,11 @@ button:active {
   .column {
     flex: 33.33%;
     padding: 5px;
-  } 
+  }
+  .goof {
+    display: center;
+   }
+#dpage {
+padding-left: 300px;
+padding-right: 10px;
+}
