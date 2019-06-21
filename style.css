@@ -35,8 +35,14 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    font-size:28px;
+    font-size:25px;
   }
+  button:hover {background-color: #ffffff}
+
+button:active {
+  box-shadow: 0 2px #666;
+  transform: translateY(3px);
+}
   .youwin {
    display: center;
   }
@@ -46,7 +52,6 @@
   .row {
     display: flex;
   }
-  
   .column {
     flex: 33.33%;
     padding: 5px;
