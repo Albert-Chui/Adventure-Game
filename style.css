@@ -78,3 +78,6 @@ text-align: end;
 .none{ 
   cursor:no-drop;
 }
+.name:hover{
+  display: "door";
+}
